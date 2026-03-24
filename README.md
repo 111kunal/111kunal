@@ -2,8 +2,8 @@
 🎓 A passionate developer on a journey to build things that matter.
 💻 Tech I work with:
 
-🔷 Languages: C++, JavaScript, Python (currently learning)
-🌐 Web: HTML, CSS, JavaScript, React
+🔷 Languages: C++ | JavaScript | Python (currently learning)
+🌐 Web: HTML | CSS | JavaScript | React
 ⚙️ Currently exploring: Python & its ecosystem
 
 🚀 What I'm up to:
