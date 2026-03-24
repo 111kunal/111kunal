@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hi, I'm Kunal
+🎓 A passionate developer on a journey to build things that matter.
+💻 Tech I work with:
 
-<!--
-**111kunal/111kunal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔷 Languages: C++, JavaScript, Python (currently learning)
+🌐 Web: HTML, CSS, JavaScript, React
+⚙️ Currently exploring: Python & its ecosystem
 
-Here are some ideas to get you started:
+🚀 What I'm up to:
 
-- 🔭 I’m currently working on ecommerce website
-- 🌱 I’m currently learning react & backend
-- 👯 I’m looking to collaborate on web dev projects
-- 🤔 I’m looking for help with projects
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: him
-- ⚡ Fun fact: ...
--->
+Building web projects with React
+Leveling up my Python skills day by day
+Always curious, always coding
+
+🤝 Open to: Collaborations, open-source contributions & exciting opportunities
+
+💡 "Every expert was once a beginner — I'm just enjoying the journey."
+📫 Reach me at: https://linkedin.com/in/kunal-376949335
+
